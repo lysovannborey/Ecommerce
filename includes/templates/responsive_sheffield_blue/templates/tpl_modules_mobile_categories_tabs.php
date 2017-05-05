@@ -18,8 +18,8 @@
 
 <div id="menu" class="ribbon">
 <ul class="slimmenu ribbon-content">
-
-    <li class="menu-shop shop-li"><a href="<?php HTTP_SERVER . DIR_WS_CATALOG;?>" class="mshop"><?php echo HEADER_TITLE_CATEGORIES; ?></a>
+	 <li class="menu-shop home-li"><a href="<?php HTTP_SERVER;?>" class="mshop"><?php echo HEADER_TITLE_HOME; ?></a>
+    <li class="shop-li"><a href="<?php HTTP_SERVER . DIR_WS_CATALOG;?>" class="mshop"><?php echo HEADER_TITLE_CATEGORIES; ?></a>
 <?php
     // load the UL-generator class and produce the menu list dynamically from there
     require_once (DIR_WS_CLASSES . 'categories_ul_generator.php');
