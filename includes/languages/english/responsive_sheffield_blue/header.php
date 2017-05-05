@@ -22,7 +22,7 @@
 
 // added defines for header alt and text
   define('HEADER_ALT_TEXT', 'Responsive Sheffield Blue Zen Cart Template by www.picaflor-azul.com');
-  define('HEADER_SALES_TEXT', 'responsive zen cart template');
+  define('HEADER_SALES_TEXT', 'responsive');
   define('HEADER_LOGO_WIDTH', '271px');
   define('HEADER_LOGO_HEIGHT', '57px');
   define('HEADER_LOGO_IMAGE', 'logo.png');

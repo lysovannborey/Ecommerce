@@ -20,10 +20,12 @@
   // Added by Anne (Picaflor-Azul.com) Responsive Sheffield Blue v1.0
 
 /*bof categories definitions*/
-define('HEADER_TITLE_CATEGORIES','Shop');
+define('HEADER_TITLE_HOME','Home');
+define('HEADER_TITLE_CATEGORIES','Occasions');
 
 /*bof manufacturers definitions*/
-define('HEADER_TITLE_MANUFACTURERS','Brands');
+// define('HEADER_TITLE_CATEGORIES','Occasions');
+define('HEADER_TITLE_MANUFACTURERS','Gift Cards');
 
 /*bof back to top*/
 define('BACK_TO_TOP','');
